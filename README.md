@@ -17,8 +17,8 @@ target_link_libraries(${LIB_NAME} PUBLIC Packages)
 ## List of Libraries
 
 - [assimp](https://github.com/assimp/assimp)  
-- binary – (custom/local folder, no GitHub link found)  
-- bmp – (unclear, possibly local or custom BMP loader)  
+- binary – (custom/local folder)  
+- bmp – (custom/local BMP loader)  
 - [entt](https://github.com/skypjack/entt)  
 - [glad](https://github.com/Dav1dde/glad)  
 - [glfw](https://github.com/glfw/glfw)  
